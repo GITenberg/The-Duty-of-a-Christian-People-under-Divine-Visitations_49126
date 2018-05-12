@@ -1,10 +1,16 @@
 _repo: The-Duty-of-a-Christian-People-under-Divine-Visitations_49126
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Smart, Newton
     gutenberg_agent_id: '45152'
     url: http://www.gutenberg.org/2009/agents/45152
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49126#The-Duty-of-a-Christian-People-under-Divine-Visitations
 gutenberg_issued: '2015-06-03'
 gutenberg_type: Text
 identifiers:
